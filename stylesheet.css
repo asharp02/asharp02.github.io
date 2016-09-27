@@ -1,0 +1,23 @@
+p   {
+	border-style: dotted;
+	border-color: black;
+	font-family:Verdana;
+	font-size:14px;
+	color:#530EE8;
+}
+
+h1	{
+	font-family:Garamond, serif;
+}
+
+body   {
+	background-color: light blue;
+	border
+}
+img   {
+	opacity: 0.5
+}
+
+img:hover  {
+	opacity: 1;
+}
