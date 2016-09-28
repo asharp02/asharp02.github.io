@@ -1,17 +1,17 @@
 p   {
-	border-style: dotted;
+	/*border-style: dotted;
 	border-color: black;
 	font-family:Verdana;
-	font-size:14px;
-	color:#530EE8;
+	font-size:14px;*/
+	color: blue;
 }
 
-h1	{
+/*h1	{
 	font-family:Garamond, serif;
 }
 
 body   {
-	background-color: light blue;
+	background-color: blue;
 }
 img   {
 	opacity: 0.5;
@@ -23,4 +23,4 @@ img:hover  {
 
 span   {
 	color:blue;
-}
+}*/
